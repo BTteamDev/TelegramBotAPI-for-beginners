@@ -4,7 +4,7 @@
 
 # FOR INSTALL LIBRARY:
 # - OPEN A CMD
-# - ENTER "pip install python-telegram-bot"
+# - ENTER "pip install pyTelegramBotAPI"
 
 #-------- THE IMPORTANT LIBRARIES FOR THE BOT --------------
 
