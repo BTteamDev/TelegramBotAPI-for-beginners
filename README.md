@@ -12,4 +12,6 @@ If you are already an experienced programmer, you may not be interested in this.
     - Open CMD;
     - Enter "pip install emoji"
 
+    !!! First, you must to create a bot in https://t.me/BotFather !!!
+
 Regards, bodutop.
