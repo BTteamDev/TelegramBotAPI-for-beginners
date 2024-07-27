@@ -19,8 +19,9 @@ import emoji
 
 # <var of bot>.send_message(message.chat.id, "any text") - A COMMAND OF SENDING MESSAGE BY BOT IN CURRENT CHAT
 
+# MAKE THE BOT IN https://t.me/BotFather.
 
-<var of bot> (bot) = telebot.TeleBot("<YOUR TELEGRAM BOT TOKEN>")
+<var of bot> (bot) = telebot.TeleBot("<YOUR TELEGRAM BOT TOKEN>") # YOU CAN SEE A TOKEN IN https://t.me/BotFather.
 
 
 gr = ["Приветик :3", "Кусь ^^", "Хай))", "Хэллоу ❤"] # LIST OF GREETINGS
